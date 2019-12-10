@@ -1,0 +1,19 @@
+{
+    "name": "mustafa.essoufi/packagist-test",
+    "description": "Description of lib",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mustafa Essoufi",
+            "email": "messoufi@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload-dev": {
+        "psr-4": {
+          "RandomQuotes": "src/"
+        },
+    "require": {}
+}
+}
